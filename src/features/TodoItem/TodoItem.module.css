@@ -1,0 +1,7 @@
+.todo-list__item {
+    width: 200px;
+    height: 200px;
+    background-color: bisque;
+    grid-column-end: span 1;
+    grid-row-end: span 1;
+}
